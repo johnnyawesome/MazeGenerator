@@ -1,5 +1,5 @@
 # MazeGenerator
-A Maze-Generator using Depth-First-Search and recursive backtracking, written in P5JS.
+A interactive Maze-Generator using Depth-First-Search and recursive backtracking, written in P5JS.
 
 ![MazeGenerator](https://raw.githubusercontent.com/johnnyawesome/MazeGenerator/main/MazeGenerator/DemoImages/MazeGenerator.gif)
 
