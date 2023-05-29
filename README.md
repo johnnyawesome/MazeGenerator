@@ -5,7 +5,7 @@ A Maze-Generator using Depth-First-Search and recursive backtracking, written in
 
 
 This Maze-Generator uses [Depth-First-Search](https://en.wikipedia.org/wiki/Depth-first_search) and [recursive](https://en.wikipedia.org/wiki/Recursion_(computer_science)) backtracking to generate a Maze.
-You can find the entire Algorithm [here on Wikipedia]([https://github.com/johnnyawesome/FractalTree](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_depth-first_search))
+You can find the entire Algorithm [here on Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_depth-first_search)
 
 ## An interactive Maze-Generator
 
